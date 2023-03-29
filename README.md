@@ -22,4 +22,4 @@ The USGS is interested in building a new set of tools that will allow them to vi
   
   -----------------------------------------
   
-  GitHub link for rendered page: 
+  GitHub link for rendered page: [CLICK HERE](https://dmnq-dc.github.io/Leaflet-Challenge/)
